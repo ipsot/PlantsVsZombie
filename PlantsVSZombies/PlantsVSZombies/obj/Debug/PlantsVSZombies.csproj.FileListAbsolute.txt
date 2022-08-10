@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\bin\Debug\PlantsVSZombies.exe.config
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\bin\Debug\PlantsVSZombies.exe
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\bin\Debug\PlantsVSZombies.pdb
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\obj\Debug\PlantsVSZombies.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\obj\Debug\PlantsVSZombies.exe
+C:\Users\mort8\source\repos\PlantsVSZombies\PlantsVSZombies\obj\Debug\PlantsVSZombies.pdb
